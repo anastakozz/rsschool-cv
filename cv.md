@@ -6,7 +6,9 @@
 **Location:** Moscow
 
 **E-mail:** shvedagon@gmail.com
+**GitHub:** anastakozz 
 
+**Discord:** Anastasiya Kozlova (@anastakozz)
  
 ## **About me**
  My career was started in 2014 in a small Architecture Scaled Models workshop in Moscow. I self-studied most of the specific software for digital fabrication, needed for my job, and concurrently got a degree in Architecture. After graduation I joined PIK scaled models Workshop and mastered the way from regular specialist to team lead.  
