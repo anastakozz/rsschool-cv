@@ -6,7 +6,6 @@
 **Location:** Moscow
 
 **E-mail:** shvedagon@gmail.com
-**GitHub:** anastakozz 
 
 **Discord:** Anastasiya Kozlova (@anastakozz)
  
