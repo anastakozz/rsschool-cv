@@ -1,2 +1,2 @@
 # rsschool-cv
-https://github.com/anastakozz/rsschool-cv/commits/gh-pages/cv.md
+https://anastakozz.github.io/rsschool-cv/
