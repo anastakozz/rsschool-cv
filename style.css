@@ -91,34 +91,44 @@
   .Edu-textbold {
     font-weight: lighter;
     color: #84949D;
-    text-decoration: underline;
+    padding-right: 20px;
+    white-space: nowrap;
   }
   .section-title {
     color: #84949D;
+    white-space: nowrap;
    }
   .skills-list {
     margin-bottom: 5%;
-    list-style: none;
+    list-style-type: none;
   }
   .lang-list {
-    margin-bottom: 5%;
-    list-style: none;
+    margin-bottom: 10%;
+    list-style-type: none;
   }
   .contact-list {
-    margin-bottom: 5%;
-    list-style: none;
+    margin-bottom: 10%;
+    display: flex;
   }
   .contact-textbold {
     font-weight: bolder;
     color: #84949D;
+    padding-right: 30px;
+  }
+  .edu-ul {
+    margin-left: 0;
+    padding-left: 0;  
   }
   .edu-list {
     margin-bottom: 5%;
-    list-style: none;
+    list-style: none; 
+    display: flex;
   }
   .projects-list {
     margin-bottom: 5%;
     list-style: none;
+    margin-left: 0;
+    padding-left: 0; 
   }
   .projects-link {
     font-weight: lighter;
