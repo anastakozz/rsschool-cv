@@ -43,7 +43,7 @@
   .nav-link {
     padding: 0 30px;
     line-height: 10px;
-    color: #EBE6E3;
+    color: #f4f1ee;
     text-decoration: none;
   }  
   /* Header Style End */
@@ -52,50 +52,78 @@
   .profile-container {
     display: flex;
   }
+  .profile-image-block {
+    width: 40%;
+    background-color: #f4f1ee;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .profile {
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0 0 0 70px;
+  }
   .profile-image {
-    width: 200px;
-    height: 200px;
+    width: 250px;
+    height: 250px;
     object-fit: cover;
     border-radius: 50%;
-    border: 10px solid #84949D;
-    margin: 40px 100px;
+    border: 15px solid #FFFFFF;
+    margin: 50px 0 25px 0;
+   
+  }
+  .profile-text-block {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    
+    
   }
   .profile-title {
-    margin: 100px 0 0 25px;
     font: 3em sans-serif;
-    color: #84949D;
+    color: #597a8d;
+    margin: 0;
+    padding-top: 5px;
   }
   .profile-subtitle {
-    margin: 20px 0 0 25px;
+    margin: 0;
+  
     font: 2em sans-serif;
-    color: #84949D;
+    color: #597a8d;
   }
 /* Profile Style End */
 /* Info Style Start */
+  .section {
+    margin-top: 20px;
+    margin-bottom: 50px;
+  }
   .main-info {
     display: flex;
   }
   .main-container {
     width: 60%;
-    padding: 0 80px 0 30px; 
+    padding: 0 80px 0 70px; 
   }
   .left-container{
     width: 40%;
-    background-color: #EBE6E3;
-    padding: 0 80px 0 30px;
+    background-color: #f4f1ee;
+    padding: 0 80px 0 50px;
   }
   .Skills-textbold{
     font-weight: bolder;
-    color: #84949D;
+    color: #437592;
   }
   .Edu-textbold {
     font-weight: lighter;
-    color: #84949D;
+    color: #597a8d;
     padding-right: 20px;
     white-space: nowrap;
   }
   .section-title {
-    color: #84949D;
+    color: #597a8d;
     white-space: nowrap;
    }
   .skills-list {
@@ -112,8 +140,8 @@
   }
   .contact-textbold {
     font-weight: bolder;
-    color: #84949D;
-    padding-right: 30px;
+    color: #597a8d;
+    padding-right: 10px;
   }
   .edu-ul {
     margin-left: 0;
@@ -132,7 +160,7 @@
   }
   .projects-link {
     font-weight: lighter;
-    color: #84949D;
+    color: #597a8d;
     text-decoration: underline;
   }
 /* Info Style End */
@@ -148,12 +176,12 @@
     display: flex;
     justify-content: space-between;
     margin: 0 auto;
-    color: #EBE6E3;
+    color: #f4f1ee;
     
   }
   .git-link {
     padding: 0 50px;
-    color: #EBE6E3;
+    color: #f4f1ee;
     text-decoration: none;
   }
   .rss {  width: 60px;
